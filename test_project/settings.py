@@ -132,3 +132,5 @@ TAWKTO_ID_SITE = '5ecaac998ee2956d73a419a1'
 
 TAWKTO_API_KEY = 'c1a9101f868927f42036a6ed2520d32c5812ba3e'
 TAWKTO_IS_SECURE = True
+
+django_heroku.settings(locals())
