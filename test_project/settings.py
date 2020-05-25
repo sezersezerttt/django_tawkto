@@ -125,7 +125,7 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-ALLOWED_HOSTS = ['176.216.252.141', 'sezersezerttt.duckdns.org']
+ALLOWED_HOSTS = ['*']
 
 TAWKTO_ID_SITE = '5ecaac998ee2956d73a419a1'
 
