@@ -27,7 +27,7 @@ SECRET_KEY = 'hrn=9nj_*8lm#lxtsaow)_#nr&sb*rk4a489^wlg9so8!m@osq'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['176.216.252.141', 'sezersezerttt.duckdns.org']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
@@ -125,7 +125,7 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-ALLOWED_HOSTS = ['*']
+
 
 TAWKTO_ID_SITE = '5ecaac998ee2956d73a419a1'
 
